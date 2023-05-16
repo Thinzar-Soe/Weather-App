@@ -24,7 +24,7 @@ function App() {
       </form>
       <Weather city={show} />
       <p>
-        <a href="https://github.com/Thinzar-Soe/Week-6-Project.git">
+        <a href="https://github.com/Thinzar-Soe/Weather-App.git">
           Open-source code
         </a>{" "}
         by Thinzar Soe
